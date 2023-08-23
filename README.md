@@ -1,5 +1,7 @@
 # weatherStatus
 
+![Uploading VideoSample - frame at 1m12s.jpg…]()
+
 The Application helps in getting weatherstatus of particular city requested.
 
 Used **MVVM** pattern, following  Seperation of Concerns principle by segregating UI and business logic .
