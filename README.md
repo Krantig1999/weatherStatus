@@ -1,6 +1,6 @@
 # weatherStatus
 
-[![Uploading VideoSample - frame at 1m12s.jpg…]()](https://github.com/Krantig1999/weatherStatus/assets/138683908/41ac4164-c6bb-4ac4-b066-488cadbabcd8)
+https://github.com/Krantig1999/weatherStatus/assets/138683908/e8e46baa-839b-4bf0-afcd-1b50ae7ccbd8
 
 The Application helps in getting weatherstatus of particular city requested.
 
